@@ -6,3 +6,5 @@ A collection of programs on natural language processing
 現在テスト中です。
 
 2019/07/08始動
+
+変更
